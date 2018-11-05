@@ -1,5 +1,5 @@
-### Updated by Laura Edell, Sr. Data Scientist | Microsoft MSUS CTO CSU Organization
-## Date: 10/15/2018
+##### Updated by Laura Edell, Sr. Data Scientist | Microsoft MSUS CTO CSU Organization
+#### Date: 10/15/2018
 
 # A Beginner's Guide to Azure Databricks
 Use the labs in this repo to get started using Spark in Azure Databricks.
