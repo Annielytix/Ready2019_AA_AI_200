@@ -1,4 +1,4 @@
-# Updated by Laura Edell, Sr. Data Scientist | Microsoft MSUS CTO CSU Organization
+### Updated by Laura Edell, Sr. Data Scientist | Microsoft MSUS CTO CSU Organization
 ## Date: 10/15/2018
 
 # A Beginner's Guide to Azure Databricks
