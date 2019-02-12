@@ -16,4 +16,4 @@ Use the labs in this repo to get started using Spark in Azure Databricks.
 
 4. [Lab 4 - Introduction to Machine Learning](Lab%204%20-%20Introduction%20to%20Machine%20Learning.pdf). In this lab you'll train & later evaluate a classification model.
 
-In the Advanced Databricks workshop, you will cover MMLSpark and several types of Supervised and Unsupervised Machine Learning use cases (coming soon)
+In the Advanced Databricks workshop, you will cover MMLSpark and several types of Supervised and Unsupervised Machine Learning use cases (https://aka.ms/Ready-DA-AAAI-TS319)
